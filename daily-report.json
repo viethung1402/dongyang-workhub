@@ -1,0 +1,10 @@
+{
+  "date": "29/09/2026 · 07:30",
+  "summary": "Tổng hợp các email công việc cần xử lý. Ưu tiên việc quá hạn và các việc cần phối hợp.",
+  "items": [
+    {"priority":"Quá hạn","task":"Tsurumi: xác nhận báo giá mã mới và khả năng chạy thử 3 sản phẩm.","owner":"Hùng · Kỹ thuật/QC/Kế hoạch","deadline":"Quá hạn từ 25/09"},
+    {"priority":"Gấp","task":"Zürn JP24150: gửi ảnh và báo cáo kiểm tra 50 sản phẩm hoàn thành.","owner":"Sang · Kỹ thuật/QC","deadline":"Cần phản hồi sớm"},
+    {"priority":"Mới","task":"Toshiba TIPA: tiếp nhận PO mới, chốt kế hoạch thực hiện.","owner":"Hân · Kế hoạch","deadline":"Cần xác nhận"},
+    {"priority":"Mới","task":"Việt Nhật PO DVS260928-021: lập kế hoạch giao từng phần.","owner":"Hân · Kế hoạch/Kỹ thuật","deadline":"26/10/2026"}
+  ]
+}
